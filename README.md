@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C 
 - 💞️ I’m looking to collaborate on any projects that would benefit you in any manner and help me become better and more profficent at programming
 - 📫 How to reach me is by sending me a message on GitHub
-- 😄 Pronouns: ...
 - ⚡ Fun fact: Currently working on a small project for my family
 
 <!---
